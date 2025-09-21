@@ -1,5 +1,5 @@
 # Hi there, I'm Ali Azizi 👋
-
+<div align="left">
 ![Profile Picture](https://avatars.githubusercontent.com/u/145843495?v=4)
 
 **Biomedical Engineer | Deep Learning & AI Specialist | LLM Enthusiast**
