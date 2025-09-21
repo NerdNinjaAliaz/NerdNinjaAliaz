@@ -1,9 +1,12 @@
 # Hi there, I'm Ali Azizi 👋
 <div align="left">
-![Profile Picture](https://avatars.githubusercontent.com/u/145843495?v=4)
-
-**Biomedical Engineer | Deep Learning & AI Specialist | LLM Enthusiast**
-> *Turning medical data into intelligent diagnostics — one model at a time.*
+  <img src="https://raw.githubusercontent.com/NerdNinjaAliaz//NerdNinjaAliaz/main/profile.jpg" width="180" height="180" style="border-radius: 50%; margin-right: 20px; float: left;" />
+  
+  **Biomedical Engineer | Deep Learning & AI Specialist | LLM Enthusiast**  
+  > *Turning medical data into intelligent diagnostics — one model at a time.*
+</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NerdNinjaAliaz&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-azizi-1493271b1/)  
 [![Email](https://img.shields.io/badge/Email-orange?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aziziali.9473@gmail.com)  
