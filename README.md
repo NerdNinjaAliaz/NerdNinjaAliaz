@@ -1,7 +1,8 @@
 # Hi there, I'm Ali Azizi 👋
 
-**Biomedical Engineer | Deep Learning & AI Specialist | LLM Enthusiast**
+![Profile Picture](https://avatars.githubusercontent.com/u/145843495?v=4)
 
+**Biomedical Engineer | Deep Learning & AI Specialist | LLM Enthusiast**
 > *Turning medical data into intelligent diagnostics — one model at a time.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-azizi-1493271b1/)  
