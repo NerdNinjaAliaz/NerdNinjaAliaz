@@ -1,5 +1,5 @@
 # Hi there, I'm Ali Azizi 👋
-t.com/NerdNinjaAliaz//NerdNinjaAliaz/main/profile.jpg" width="180" height="180" style="border-radius: 50%; margin-right: 20px; float: left;" />
+
   
   **Biomedical Engineer | Deep Learning & AI Specialist | LLM Enthusiast**  
   > *Turning medical data into intelligent diagnostics — one model at a time.*
