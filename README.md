@@ -7,7 +7,7 @@
 
 I build production-oriented AI systems that translate academic machine learning into quantifiable business value—spanning **quantitative financial risk governance**, **healthcare document AI & clinical decision support**, and **B2B enterprise workflow automation**.
 
-* 🎓 **Academic Foundation**: M.Sc. in Biomedical Engineering (Bioelectrics) at the **[University of Tehran](https://www.ut.ac.ir/en)** (GPA: `3.89/4.0`, Top 0.1% National Entrance Exam: Rank 7 in Ministry of Health, Rank 68 in Ministry of Science); Graduate Research & Teaching Assistant in *Neural Networks and Deep Learning*.
+* 🎓 **Academic Foundation**: M.Sc. in Biomedical Engineering (Bioelectrics) at the **[University of Tehran](https://www.ut.ac.ir/en)** ( Graduate Research & Teaching Assistant in *Neural Networks and Deep Learning*.
 * 💼 **Product & Commercial Leadership**: Product Manager for a Digital Health & Occupational HSE ecosystem, AI Project Consultant, and Regional B2B Industrial Sales Manager.
 * 🛠️ **Core Technical Stack**: Python, **[PyTorch](https://github.com/pytorch/pytorch)**, **[scikit-learn](https://github.com/scikit-learn/scikit-learn)**, **[Streamlit](https://github.com/streamlit/streamlit)**, Deep Recurrent Networks (`LSTM`, `GRU`), Computer Vision (`U-Net`, `YOLO`), Node.js, C++, MATLAB.
 
