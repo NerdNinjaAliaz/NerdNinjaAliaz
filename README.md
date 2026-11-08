@@ -1,4 +1,4 @@
-# Hi, I'm Ali Azizi (`@NerdNinjaAliaz`) 👋
+# Hi, I'm Ali Azizi 👋
 
 **AI Product Manager & Biomedical AI Engineer (M.Sc., [University of Tehran](https://www.ut.ac.ir/en))**  
 *Bridging Deep Learning, Computer Vision & Quantitative Time-Series Modeling with Measurable Commercial ROI*
